@@ -1,5 +1,5 @@
 # Senbonzakura
-Play Senbonzakura (千本桜) with your motherboard
+Play Senbonzakura (千本桜) with your motherboard beep
 
 ## Requirement
 1. A beepable motherboard
